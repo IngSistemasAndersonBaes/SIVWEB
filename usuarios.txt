@@ -1,0 +1,9 @@
+insert into usuarios (usuario, contrasena, nombre, area, correo, estado) values
+('jefe1', 'Jefe1234', 'Luis Herrera', 'Jefe', 'jefe@empresa.com', 'activo'),
+('gerente1', 'Gerente1234', 'Marta Ramos', 'Gerente', 'gerente@empresa.com', 'activo'),
+('crod', 'Carlos123', 'Carlos Rodriguez', 'Tecnologia', 'carlos.rodriguez@empresa.com', 'activo'),
+('jperez', 'Juan1234', 'Juan Perez', 'Administracion', 'juan.perez@empresa.com', 'activo'),
+('rlopez', 'Rrhh1234', 'Rosa Lopez', 'Recursos Humanos', 'rosa.lopez@empresa.com', 'activo'),
+('psanchez', 'Finanzas123', 'Pedro Sanchez', 'Finanzas', 'pedro.sanchez@empresa.com', 'activo'),
+('amendoza', 'Almacen123', 'Ana Mendoza', 'Almacen', 'ana.mendoza@empresa.com', 'activo'),
+('llopez', 'Ventas123', 'Laura Lopez', 'Ventas', 'laura.lopez@empresa.com', 'inactivo');
